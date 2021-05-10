@@ -1,0 +1,9 @@
+#img-bg {
+    background-image: url('../../assets/img/financas.jpg');
+
+    min-height: 730px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
