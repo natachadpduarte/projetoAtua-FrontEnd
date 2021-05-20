@@ -10,6 +10,7 @@ import { InicioComponent } from './inicio/inicio.component';
 import { RodapeComponent } from './rodape/rodape.component';
 import { EntrarComponent } from './entrar/entrar.component';
 import { CadastrarComponent } from './cadastrar/cadastrar.component';
+import { FenixComponent } from './fenix/fenix.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { CadastrarComponent } from './cadastrar/cadastrar.component';
     InicioComponent,
     RodapeComponent,
     EntrarComponent,
-    CadastrarComponent
+    CadastrarComponent,
+    FenixComponent
   ],
   imports: [
     BrowserModule,
